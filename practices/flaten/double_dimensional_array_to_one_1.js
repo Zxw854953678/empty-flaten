@@ -1,5 +1,3 @@
-'use strict';
-
 function double_to_one(collection) {
   var newArray = [];
 
